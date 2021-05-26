@@ -10,6 +10,7 @@ public class RestAPITest {
 		System.out.println("This is postJira in RestAPI");
 		System.out.println("This is postJira in RestAPI2");
 		System.out.println("This is postJira in RestAPI3");
+		System.out.println("This is postJira in RestAPI4");
 	}
 	
 	@Test
