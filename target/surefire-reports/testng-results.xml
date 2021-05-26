@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="115" started-at="2021-05-13T03:00:17Z" finished-at="2021-05-13T03:00:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="115" started-at="2021-05-13T03:00:17Z" finished-at="2021-05-13T03:00:17Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="android()[pri:0, instance:qaclickacademy.AppiumTest@8e0379d]" name="android" duration-ms="55" started-at="2021-05-13T08:30:17Z" finished-at="2021-05-13T08:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- android -->
+        <test-method status="PASS" signature="iphone()[pri:0, instance:qaclickacademy.AppiumTest@8e0379d]" name="iphone" duration-ms="0" started-at="2021-05-13T08:30:17Z" finished-at="2021-05-13T08:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphone -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.RestAPITest@2893de87]" name="deleteTwitter" duration-ms="0" started-at="2021-05-13T08:30:17Z" finished-at="2021-05-13T08:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.RestAPITest@2893de87]" name="postJira" duration-ms="0" started-at="2021-05-13T08:30:17Z" finished-at="2021-05-13T08:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="broswertest()[pri:0, instance:qaclickacademy.SeleniumTest@20d3d15a]" name="broswertest" duration-ms="0" started-at="2021-05-13T08:30:17Z" finished-at="2021-05-13T08:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broswertest -->
+        <test-method status="PASS" signature="elementeTest()[pri:0, instance:qaclickacademy.SeleniumTest@20d3d15a]" name="elementeTest" duration-ms="0" started-at="2021-05-13T08:30:17Z" finished-at="2021-05-13T08:30:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementeTest -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
