@@ -10,11 +10,26 @@ public class AppiumTest {
 	public void android()
 	{
 		System.out.println("This is Android in Appium");
+		
+		System.out.println("This is Android in Appium");
 	}
+	
+	@Test
+	public void androidf()
+	{
+		System.out.println("This is Android in Appium");
+		
+		System.out.println("This is Android in Appium");
+	}
+	
 	
 	@Test
 	public void iphone()
 	{
+		System.out.println("This is iphone in Appium");
+		
+		System.out.println("This is iphone in Appium");
+		
 		System.out.println("This is iphone in Appium");
 	}
 	

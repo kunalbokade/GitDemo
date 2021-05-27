@@ -16,5 +16,10 @@ public class SeleniumTest {
 		System.out.println("This is elementeTest in selenium");
 	}
 	
+    @Test
+	 void elementeTestfd()
+	{
+		System.out.println("This is elementeTest in selenium");
+	}
 	
 }

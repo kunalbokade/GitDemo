@@ -23,4 +23,10 @@ public class RestAPITest {
 	{
 		System.out.println("This is deleteTwitter in RestAPI");
 	}
+	
+	@Test
+	public void deleteTwitterdf()
+	{
+		System.out.println("This is deleteTwitter in RestAPI");
+	}
 }
