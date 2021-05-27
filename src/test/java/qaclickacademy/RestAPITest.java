@@ -13,6 +13,8 @@ public class RestAPITest {
 		System.out.println("This is postJira in RestAPI4");
 		System.out.println("This is postJira in RestAPI5");
 		System.out.println("This is postJira in RestAPI6");
+		System.out.println("This is postJira in RestAPI7");
+		System.out.println("This is postJira in RestAPI8");
 
 	}
 	
